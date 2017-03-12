@@ -1,5 +1,5 @@
-@import url(http://fonts.googleapis.com/css?family=Merriweather Sans:300,400,700,900);
-body{background-color:#fff;font:normal 16px/22px Lato;color:#555;}
+@import url(http://fonts.googleapis.com/css?family=Merriweather Sans);
+body{background-color:#fff;font:normal 16px/22px Merriweather Sans;color:#555;}
 p {padding-bottom:20px;}
 a:hover{text-decoration: none;}
 .clearfix:after {
@@ -37,7 +37,7 @@ h3{font-weight:300;font-size: 35px;line-height:38px;margin-bottom:40px;}
 .header h1.info a u{text-decoration: none;}
 .header h1.info a:hover u{text-decoration: underline;}
 .header h1.info b{opacity:0.5;}
-.header h1.info b span{font-weight:300;opacity:0.7;}
+.header h1.info b span{font-weight:100;opacity:0.7;}
 .header a.btn{color: #fff;border: 1px solid #fff; padding: 10px 25px;text-decoration: none;border-radius: 0; margin-top: 25px;margin-right: 25px; text-transform: uppercase;font-size:16px;}
 .header a.btn:hover{background:rgba(0,0,0,0.5);transition: all 0.5s ease; }
 
