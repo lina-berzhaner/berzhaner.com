@@ -1,5 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Merriweather Sans);
-body{background-color:#fff;font:normal 16px/22px Merriweather Sans;color:#555;}
+body{background-color:#fff;font:normal 16px/22px Merriweather Sans;color:white;}
 p {padding-bottom:20px;}
 a:hover{text-decoration: none;}
 .clearfix:after {
@@ -20,9 +20,9 @@ html[xmlns] .clearfix {
 	height:1%;
 }
 h1,h2,h3,h4,h5,h6{font-family: 'Merriweather Sans', sans-serif;;margin: 0;padding: 0;}
-h1{font-weight:300;font-size: 60px;line-height: 80px;}
-h2{font-weight:300;font-size: 40px;line-height:38px;margin-bottom:80px;}
-h3{font-weight:300;font-size: 35px;line-height:38px;margin-bottom:40px;}
+h1{font-weight:200;font-size: 60px;line-height: 80px;margin-bottom:120px;}
+h2{font-weight:200;font-size: 40px;line-height:38px;margin-bottom:80px;}
+h3{font-weight:200;font-size: 35px;line-height:38px;margin-bottom:40px;}
 
 .spacer{padding: 100px 0;}
 .center{text-align: center;}
