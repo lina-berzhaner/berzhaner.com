@@ -159,6 +159,7 @@ ul.menu-fullscreen li > a:hover{
   width:1140px;
   position: relative;
   top:0;
+  color:#a9a9a9;
   margin:0 auto;
   z-index: 9997;
 }
