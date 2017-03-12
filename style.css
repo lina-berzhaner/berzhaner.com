@@ -78,9 +78,9 @@ h3{font-weight:300;font-size: 35px;line-height:38px;margin-bottom:40px;}
 
 
 @media (max-width: 1200px){
-		h1{font-size: 50px;line-height: 70px;}
-		h2{font-size: 35px;margin-bottom: 50px;}
-		h3{font-size: 25px;margin-bottom: 30px;}
+		h1{font-size: 30px;line-height: 50px;}
+		h2{font-size: 25px;margin-bottom: 30px;}
+		h3{font-size: 15px;margin-bottom: 20px;}
 		.spacer{padding: 70px 0;}
 
 		.testimonials p{padding: 0 100px;}
